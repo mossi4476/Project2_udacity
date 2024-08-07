@@ -1,6 +1,18 @@
 [
+    {
+        "ParameterKey": "ProjectName",
+        "ParameterValue": "udagram"
+    },
+    {
+        "ParameterKey": "VolumeSize",
+        "ParameterValue": "10"
+    },
 	{
-		"ParameterKey": "Add you parameters here",
-		"ParameterValue": "Add you parameters here"
+		"ParameterKey": "S3BucketName",
+		"ParameterValue": "udagram-s3bucket-326879950031"
+	},
+	{
+		"ParameterKey": "KeyPairName",
+		"ParameterValue": "vockey"
 	}
 ]
